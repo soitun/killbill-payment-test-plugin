@@ -28,7 +28,7 @@ import java.util.stream.Collectors;
 
 import javax.annotation.Nullable;
 
-public final class TestingStates {
+public class TestingStates {
 
     public static final String SLEEP_PLUGIN_CONFIG_PARAM = "sleepFor";
     public static final String AMOUNT_PLUGIN_CONFIG_PARAM = "amount";
